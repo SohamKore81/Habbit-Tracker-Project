@@ -54,7 +54,3 @@ A simple and interactive **Habit Tracker** application built with Python that he
 ## 👨‍💻 Author
 
 **Soham Kore**
-
---roject useful, please consider giving it a ⭐ on GitHub!
-
-Happy Coding! 🚀
